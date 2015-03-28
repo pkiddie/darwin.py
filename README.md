@@ -1,5 +1,5 @@
 # darwin.py
-Quick and dirty subscription to darwin push port. 
+Quick and dirty subscription to darwin push port. Prints to stdout.
 
 Usage:
 
